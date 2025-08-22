@@ -1,2 +1,4 @@
 # Data-Science-Project
-I am a passionate data scientist skilled in Al, Machine Learning, saind Deep Learning, with experience in data analysis and visualization. My strong command of Python and various frameworks allows me to design impactful solutions. I thrive in dynamic environments and am focused on leveraging my technical expertise to drive data-informed Innovation.
+Gained hands-on experience in data science and analytics through real-world projects, worked with Excel, Power Bl, Python,
+ and SQL for data analysis and visualization, collaborated with industry experts and mentors, developing analytical skills while
+ contributing to live development projects
